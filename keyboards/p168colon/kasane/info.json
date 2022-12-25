@@ -1,5 +1,5 @@
 {
-    "manufacturer": "hachi868",
+    "manufacturer": "P168colon",
     "keyboard_name": "p168colon/kasane",
     "maintainer": "hachi868",
     "bootloader": "caterina",
@@ -20,8 +20,8 @@
     "url": "",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0000",
-        "vid": "0xFEED"
+        "pid": "0x41A1",
+        "vid": "0x1FE8"
     },
     "layouts": {
         "LAYOUT_2x2": {
